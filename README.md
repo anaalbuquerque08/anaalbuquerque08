@@ -2,7 +2,7 @@
 
 
 ##  Ana Carolina Albuquerque  
-### 💻 Desenvolvedora Front-End | React.js & JavaScript
+### 💻 Graduada em Análise e Desenvolvimento de Sistemas na INFNET-RJ. No momento, estou estudando React.js e me profissionalizando em UI Design - 
 
 
 ### 🚀 Skills Principais:
