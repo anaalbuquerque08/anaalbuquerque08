@@ -1,8 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=556B2F&height=100&section=header"/>
 
 
-##  Ana Carolina Albuquerque  
-##### 💻 Graduada em Análise e Desenvolvimento de Sistemas na INFNET-RJ. No momento, estou estudando React.js e me profissionalizando em UI Design - 
+#  Ana Carolina Albuquerque  
+#### 💻 Graduada em Análise e Desenvolvimento de Sistemas na INFNET-RJ. No momento, estou estudando React.js e me profissionalizando em UI Design - 
 
 
 ### 🚀 Skills Principais:
