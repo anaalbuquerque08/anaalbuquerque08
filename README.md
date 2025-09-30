@@ -14,13 +14,12 @@ No momento, estou estudando React.js e me profissionalizando em UI Design -
 ![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 
 ### 📚 Estudando Agora:
-![React Native](https://img.shields.io/badge/-React%20Native-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)&nbsp;
+![React Native](https://img.shields.io/badge/-React%20Native-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp; 
+![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 
-
-<div align="center" style="margin-bottom:100px">
-<img width=40% align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaalbuquerque08&layout=compact&langs_count=7&theme=dark"/>
-<img width=55% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=anaalbuquerque08&theme=dark" />
+<div align="start" style="margin-bottom:100px ">
+<img height=180px align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaalbuquerque08&layout=compact&langs_count=7&theme=dark"/>
+<img   height=180px align="center" src="https://github-readme-streak-stats.herokuapp.com?user=anaalbuquerque08&theme=dark" />
 </div>
 
 ### Minhas Redes:
